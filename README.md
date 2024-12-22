@@ -1,7 +1,5 @@
 # Music_Store_Analysis
 
-# Music_Store_Analysis
-
 ## Project Overview
 The Music Store Analysis project utilizes SQL to analyze a comprehensive dataset from a music store. This project aims to derive insights into various aspects of the store's operations, including customer behavior, sales trends, and artist performance.
 
