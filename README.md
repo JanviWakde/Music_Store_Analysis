@@ -8,7 +8,7 @@ The Music Store Analysis project utilizes SQL to analyze a comprehensive dataset
 - Determine the most popular genres and tracks based on sales.
 - Explore trends in customer demographics and purchasing behavior.
 - Optimize inventory management through data-driven insights.
-- 
+  
 ### Dataset
 The dataset consists of multiple tables that include:
 - Customer: Information about customers.
@@ -18,7 +18,7 @@ The dataset consists of multiple tables that include:
 - Album: Albums that contain tracks.
 - Artist: Artists who created the tracks.
 - Genre: Music genres associated with tracks.
-- 
+  
 ### Key Tables
 - Customer
 - Invoice
